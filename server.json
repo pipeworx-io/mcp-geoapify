@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/geoapify",
   "title": "Geoapify",
   "description": "Geoapify MCP — wraps the Geoapify Location Platform (geoapify.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/geoapify",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-geoapify",
