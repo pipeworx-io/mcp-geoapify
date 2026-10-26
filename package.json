@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-geoapify",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Geoapify MCP — wraps the Geoapify Location Platform (geoapify.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b4eab8ba7d6fdced477236c8abc1f4333ec5f02f8a95faa6e8485d37191da024",
-    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
+    "sourceHash": "v1-8bbd977166b5297c920c100a0cc0253cc830a90909fd16a340e566e9ff8ac242",
+    "sourceCommit": "445bacc5596a845c12d6945fbfcdf330ef60dcc4"
   }
 }
